@@ -10,10 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>sjn_edgar.shiro</groupId>
-    <artifactId>shiro_chapter01</artifactId>
+    <artifactId>shiro_chapter02</artifactId>
     <packaging>jar</packaging>
-    <name>shiro.shiro_chapter01</name>
-    <description>身份认证</description>
+    <name>sjn_edgar.shiro.shiro_chapter02</name>
+    <description>授权</description>
 
     <!--配置 jar 包依赖 -->
     <dependencies>
@@ -46,6 +46,9 @@
             <version>0.2.23</version>
         </dependency>
     </dependencies>
+
+
+
 
 
 </project>

@@ -1,3 +1,5 @@
+package shiro.chapter01;
+
 import junit.framework.Assert;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;

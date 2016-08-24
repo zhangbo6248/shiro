@@ -1,4 +1,4 @@
-package realm;
+package shiro.chapter01.realm;
 
 import org.apache.shiro.authc.*;
 import org.apache.shiro.realm.Realm;

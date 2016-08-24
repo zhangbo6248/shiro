@@ -12,6 +12,7 @@
     <description>shiro 权限框架学习</description>
     <modules>
         <module>shiro_chapter01</module>
+        <module>shiro_chapter02</module>
     </modules>
 
 
